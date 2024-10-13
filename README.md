@@ -1,0 +1,1 @@
+# DNN-mobil-cihaz-kullan-c-davran-tahmin-etme
